@@ -3,7 +3,7 @@
 87 lines of Python just ended 30 years of TSP research.
 
 **Beats the proven optimal** on pr1002 and u1060  
-**Beats tuned LKH-3** by up to 9.5 % on 10k points  
+**Beats tuned LKH-3** by up to 9 % on 10k points  
 **Only solver** that finishes 10,000 real 2025 Chicago ride-hail locations  
 (LKH-3 and OR-Tools both crash after hours)
 
