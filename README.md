@@ -46,7 +46,7 @@ CRS doesn't just give you the best route the fastest, due to it's speed, it also
 
 ## Buy the Desktop Binary
 
-- $9,999 one-time Desktop License  
+- $1,999 one-time Desktop License  
 - No cloud. No dependencies. Runs on your laptop.  
 - Free updates forever  
 - Personal support from the guy who beat the world record
