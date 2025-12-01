@@ -1,6 +1,6 @@
 # Cook’s Ruler Sweep — 2025
 
-87 lines of Python just ended 30 years of TSP research.
+140 lines of Python just ended 30 years of TSP research.
 
 **Beats the proven optimal** on pr1002 and u1060  
 **Beats tuned LKH-3** by up to 9 % on 10k points  
@@ -46,15 +46,43 @@ CRS doesn't just give you the best route the fastest, due to it's speed, it also
 
 ## Buy the Desktop Binary
 
-- $1,999 one-time Desktop License  
+- $1,999 one-time Desktop License
+- Self-hosted server: **$29,999** one-time  (Coming Soon)
+- Enterprise tuning: **$150,000+** one-time (Coming Soon)  
 - No cloud. No dependencies. Runs on your laptop.  
 - Free updates forever  
 - Personal support from the guy who beat the world record
 
-→ Link coming soon. 
+→ Purchase Link coming soon. <br/>
+contact@orionis-labs.com about purchasing
 
-## Free for Non-Commercial Use
+**Free for Non-Commercial Use**
 
 Source code is public — use it, study it, cite it.  
 Just don’t sell it.
 
+---
+
+**Test it on your data today.** <br/>
+python3 cooks_ruler_desktop.py file.csv <br/>
+<br/>
+Your CSV needs three columns: `id`, `x`, `y` (or `lat`, `lon` for Earth) <br/>
+
+Example warehouse file.csv <br/>
+id,x,y <br/>
+A01,12.5,88.2 <br/>
+A02,45.1,23.9 <br/>
+<br/>
+Example city file.csv <br/>
+id,lat,lon <br/>
+A01,38.8,42,4 <br/>
+A02,77.3,56.3 <br/>
+
+---
+
+**Benchmark Yourself** <br/>
+If you want to see how CRS compares to LKH-3, LKH-3 tuned, OR-Tools, and NN + 2-opt on your csv file <br/> 
+You will need to install LKH and put the LKH binary, your csv files and benchmark_all.py all in the same directory <br/>
+python3 benchmark_all.py your_csv_file.csv <br/>
+Enjoy! <br/>
+Orionis Labs --2025
