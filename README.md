@@ -22,7 +22,7 @@
 
 **Early Bird Pre-Order Now! $999 (72 hours only)**
 
-https://orionislabs.lemonsqueezy.com/buy/d7dbdc65-0b2a-48e3-8360-4b478dce5ab3
+[Early Bird Pre-Order](https://orionislabs.lemonsqueezy.com/buy/d7dbdc65-0b2a-48e3-8360-4b478dce5ab3)
 
 ---
   
@@ -41,7 +41,7 @@ https://orionislabs.lemonsqueezy.com/buy/d7dbdc65-0b2a-48e3-8360-4b478dce5ab3
 - Feel free to download the **Free version** and test it on your data yourself. <br/>
 - It doesn't contain as good of performance as the paid version or all the extra features. <br/>
 - Even the Free version probably improves your data once you test it. <br/>
-https://orionislabs.lemonsqueezy.com/buy/71ed5092-cf53-498c-831b-ffe8863d0b1a
+[Vector Desktop Free Version](https://orionislabs.lemonsqueezy.com/buy/71ed5092-cf53-498c-831b-ffe8863d0b1a)
 
 ---
 
