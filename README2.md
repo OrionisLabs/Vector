@@ -24,7 +24,7 @@
 
 [Lemon Squeezy Link] (setup at lemonsqueezy.com)
 
-  ---
+---
   
 -Pre-Order : $1,999 until launch (Jan 29, 2026)
 
@@ -34,8 +34,11 @@
 
 ---
 
-#TSP #Optimization #PCB #Warehouse #LaserCutting
+- Self-Hosted Server: **$29,999** one-time  (Coming Soon)
+- Custom Tailored Enterprise Tuning: **$99,000** one-time (Coming Soon)
 
 ---
 
-Orionis Labs 2025
+#TSP #Optimization #PCB #Warehouse #LaserCutting
+
+---
